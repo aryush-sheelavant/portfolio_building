@@ -1,10 +1,12 @@
 #include<stdio.h>
+void greet(const char *name) {
+ printf("Hello, %s! Welcome to your GitHub portfolio.\n", name);
+}
 
 int main()
-{
-    printf("Hello world");
-<<<<<<< HEAD
+{   
+    printf("Hello world\n");
+    greet("Aryush\n");
+    
+    return 0;
 }
-=======
-}
->>>>>>> b386280fcf8b1a81a1f4d1e1f4f336a4606f6b12
