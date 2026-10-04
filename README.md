@@ -22,3 +22,9 @@ authorship.
 • Collaboratively write, review, and commit code with a peer, then verify authorship and history using
 GitLens.
 
+## Projects
+
+**MarketMate**
+A platform designed to connect students with local businesses for marketing roles. Currently focusing on the UI/UX requirements, functional feature mapping, and core business model iterations.
+
+
